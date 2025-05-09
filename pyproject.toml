@@ -1,0 +1,14 @@
+[project]
+name = "animexl"
+version = "0.1.0"
+description = "reflex ui for animagine xl 4.0"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "accelerate>=1.6.0",
+    "diffusers>=0.33.1",
+    "reflex==0.7.0",
+    "safetensors>=0.5.3",
+    "torch>=2.7.0",
+    "transformers>=4.51.3",
+]

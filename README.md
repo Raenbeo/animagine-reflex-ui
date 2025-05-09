@@ -17,10 +17,10 @@ git clone https://github.com/Raenbeo/animagine-reflex-ui.git
 cd animagine-reflex-ui
 ```
 
-### 2. Set up the environment
+### 2. Set up the environment With [UV](https://github.com/astral-sh/uv)
 
 ```bash
-sh ./install_requirements.sh
+uv sync
 ```
 
 ## Usage 📝
